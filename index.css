@@ -1,0 +1,95 @@
+h1{
+    columns: black;
+}
+  
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 19px;
+    padding-left: 103px;
+    padding-right: 103px;
+    padding-top: 103px;
+    margin: auto;
+    
+
+  }
+
+  #sign-in{
+    position: static;
+    margin: 0 auto;
+    width: 350px;
+    border: 2px solid #dddddd65;
+    border-radius: 3px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+/* form {
+    border: 1px solid lightgrey;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 16px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+    width: 375px;
+    
+  } */
+  
+.password-container {
+    text-indent: 50px;
+  }
+
+#fpw{
+    margin-left: 125px;
+    color: blue;
+ }
+
+ input{
+    border-radius: 3px;
+    border-width: 0.2px;
+    height: 25px;
+    width: 315px;
+    margin-bottom: 15px;
+}
+
+#continue{
+    width: 90%;
+    height: 33px;
+    margin-top: 10px;
+    padding-right: 25px;
+    font-size: 14px;
+    text-align: center;
+    background:  linear-gradient(#F7DEA1, #F0C14D);
+    border: 0.5px solid #aaaaaa;
+    border-radius: 3px;
+    
+ }
+
+#continue:hover{
+    background: linear-gradient(#F5D68A, #EEBA36);
+}
+
+#help{
+    color: blue;
+}
+#privacy{
+    color: blue;
+}
+
+#conditions{
+    color: blue;
+}
+
+#dowajuseyo{
+    color: blue;
+    /* I don't know why this doesn't work? */
+}
+
+
+#newaccount{
+    text-align: center;
+    color: #3c3a3a;
+}
+
+footer{
+    text-align: center;
+}
